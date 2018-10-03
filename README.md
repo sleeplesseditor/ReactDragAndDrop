@@ -1,4 +1,4 @@
-#ReactDragAndDrop
+# ReactDragAndDrop
 
 A demo of drag and drop functionality in React.
 
